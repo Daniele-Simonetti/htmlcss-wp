@@ -24,8 +24,21 @@ html {
 /* header */
 .head-of-page {
   height: 110px;
-  background-color: #e579e6;
+  /* background-color: #e579e6; */
 }
+
+/* immagine logo */
+.logo {
+  height: 67%;
+  border-right: 1px solid #ebebeb;
+  padding-right: 15px;
+}
+/* /immagine logo */
+
+/* nav section */
+
+/* /nav section */
+
 /* /header */
 
 /* main */
