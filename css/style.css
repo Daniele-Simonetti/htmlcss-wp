@@ -62,6 +62,14 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+.opacity {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  opacity: 0.2;
+  border-radius: 15px;
+}
 /* float section of main */
 .float-section {
   background-color: #abcfe7;
