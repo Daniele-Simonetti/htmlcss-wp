@@ -42,14 +42,12 @@ html {
   padding: 18px 15px 0 10px;
   color: #a8a8a8;
 }
-
 /* /nav section */
-
 /* /header */
 
 /* main */
 .jug-box {
-  background-color: #e1d67a;
+  background-image: url(../img/banner.jpg);
   height: 500px;
   margin-top: 35px;
 }
