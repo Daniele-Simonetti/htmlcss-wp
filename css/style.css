@@ -210,15 +210,17 @@ body {
 .img-right {
   border-radius: 15px;
 }
-
-
 /* /main */
 
 /* footer */
 .end-of-page {
-  background-color: #8801fe;
   height: 55px;
   margin-top: 10px;
+  text-align: center;
+}
+
+.red-hearth {
+  color: red;
 }
 /* /footer */
 
