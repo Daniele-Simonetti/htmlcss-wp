@@ -137,7 +137,7 @@ body {
 }
 /* /float column layout */
 
-/* column structure */
+/* column structure left*/
 .img-col-left {
   height: 100%;
   background-color: black;
@@ -167,6 +167,30 @@ body {
   margin-top: 20px;
   margin-bottom: 10px;
 }
+
+/* column structure middle */
+.img-col-middle {
+  height: 100%;
+  background-color: black;
+  opacity: 0.2;
+}
+
+.img-middle {
+  background-image: url(../img/banner-2.jpg);
+  width: 100%;
+  height: 40%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.img-col-middle,
+.img-middle {
+  border-radius: 15px;
+}
+
+
+/* column structure right */
 /* /main */
 
 /* footer */
