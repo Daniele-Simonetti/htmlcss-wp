@@ -70,6 +70,10 @@ body {
   opacity: 0.2;
   border-radius: 15px;
 }
+
+.test {
+  color: white;
+}
 /* float section of main */
 .float-section {
   background-color: #abcfe7;
