@@ -71,8 +71,20 @@ body {
   border-radius: 15px;
 }
 
-.test {
+.titolo-div {
   color: white;
+  display: inline-block;
+  width: 52%;
+  margin-top: 239px;
+  margin-left: 40px;
+  font-size: 1.5em;
+}
+
+.p-div {
+  width: 58%;
+  margin-left: 40px;
+  color: white;
+  display: block;
 }
 /* float section of main */
 .float-section {
