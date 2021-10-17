@@ -62,7 +62,7 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+/* scritte nel jug */
 .opacity {
   height: 100%;
   width: 100%;
@@ -88,17 +88,25 @@ body {
 }
 /* float section of main */
 .float-section {
-  background-color: #abcfe7;
+  /* background-color: #abcfe7; */
   margin-top: 25px;
   height: 600px;
   /* border-bottom: 20px solid #0086ff; */
   padding-bottom: 20px;
 }
+/* secheader */
 .float-sec-header {
   /* border-bottom: 15px solid #0086ff; */
   margin-bottom: 15px;
   height: 100px;
-  background-color: #abcfe7;
+  /* background-color: #abcfe7; */
+}
+
+#leadership {
+  font-size: 2.2em;
+}
+.under-title {
+  color: #d9d9d9;
 }
 
 [class*="column"] {
